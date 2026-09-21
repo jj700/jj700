@@ -17,12 +17,14 @@ tech_stack:
   - Redis
   - Docker
 links:
-  - type: github
-    url: https://github.com/alexjohnson/ecommerce-platform
-    label: Code
-  - type: live
-    url: https://shop-demo.example.com
-    label: Demo
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://github.com/jj700/ecommerce-platform'
+  - icon: rocket-launch
+    icon_pack: fas
+    name: Demo
+    url: 'https://shop-demo.example.com'
 featured: true
 status: "Live"
 role: "Lead Developer"
