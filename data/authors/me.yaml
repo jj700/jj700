@@ -2,14 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Reza Niknam Hamidabad
+  given: Reza
+  family: Niknam
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: Computational Scientist
+email: jj700physics [AT] gmail.com
 bio: |
   Full-stack developer with 5+ years of experience building scalable web applications.
   Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
@@ -20,7 +20,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:jj700physics@gmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/alexjohnson
